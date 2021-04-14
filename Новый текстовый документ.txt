@@ -1,0 +1,4 @@
+git ad .
+git status
+git commit -m "new project"
+git push
